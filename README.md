@@ -1,2 +1,2 @@
 # Analisis-de-datos
-Proyecto 
+Proyecto realizado por Alessandro Lavezzi, Nicolas Opazo e Ian Spikin
